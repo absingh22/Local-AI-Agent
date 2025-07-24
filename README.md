@@ -21,7 +21,7 @@ This project implements a local AI agent that answers questions about a pizza re
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/LocalAIAgentWithRAG.git](https://github.com/your-username/LocalAIAgentWithRAG.git)
+    git clone [https://github.com/absingh22/Local-AI-Agent](https://github.com/absingh22/Local-AI-Agent)
     cd LocalAIAgentWithRAG
     ```
 
